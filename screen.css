@@ -1,5 +1,3 @@
-/* Add screen styles below */
-/* Define a class for the website heading */
 .heading {
     color: #782323;
     background-color: #000000;
@@ -9,4 +7,16 @@
     font-family: Arial, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
+}
+
+.berserk {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px; 
+}
+
+
+.berserk img {
+    max-width: 50%;
+    height: auto;
 }
