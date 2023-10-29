@@ -4,9 +4,9 @@
     color: #782323;
     background-color: #000000;
     text-align: center;
-    padding: 20px; /* Add padding for spacing */
-    font-size: 36px; /* Adjust the font size */
-    font-family: Arial, sans-serif; /* Choose a suitable font family */
-    text-transform: uppercase; /* Uppercase the text */
-    letter-spacing: 2px; /* Adjust letter spacing for style */
+    padding: 20px;
+    font-size: 36px;
+    font-family: Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
