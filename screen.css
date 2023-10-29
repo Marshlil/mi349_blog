@@ -9,6 +9,12 @@
     letter-spacing: 2px;
 }
 
+.Dao img {
+    display: flex;
+    padding: auto;
+
+}
+
 .berserk {
     display: flex;
     justify-content: space-between;
