@@ -9,9 +9,10 @@
     letter-spacing: 2px;
 }
 
-.Dao img {
-    display: flex;
-    padding: auto;
+.Dao {
+    object-fit: cover;
+    scale: 10%;
+
 
 }
 
