@@ -47,7 +47,7 @@ h2 {
 
 h3 {
     font-size: 1.5em;
-    color: #6e2121;
+    color: #923b3b;
     margin: 20px 0 10px;
     text-align: center;
 }
@@ -70,7 +70,7 @@ h3 {
 }
 
 .navigation {
-    background-color: #6e2121;
+    background-color: #923b3b;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -98,11 +98,11 @@ font-weight: bold;
 .navbar {
 position: sticky;
 top: 0;
-background-color: #6e2121;
+background-color: #923b3b;
 height: 3vh;
 }
 .navbar a:hover {
-    background-color: #b73434;
+    background-color: #923b3b;
     color: black;
 }
 
@@ -124,7 +124,7 @@ height: 3vh;
 }
 
 .about-heading {
-    background-color: #6e2121;
+    background-color: #923b3b;
     color: #fff0f5;
     text-align: center;
     margin-bottom: 20px;
@@ -144,7 +144,7 @@ height: 3vh;
 
 .about-description{
     text-align: center;
-    background-color: #6e2121;
+    background-color: #923b3b;
     color: #fff0f5;
 
 }
@@ -167,7 +167,7 @@ height: 3vh;
 }
 
 .con-lineup li {
-    background-color: #6e2121;
+    background-color: #923b3b;
     color: #fff0f5;
     margin-bottom: 10px;
     padding: 10px;
@@ -204,12 +204,12 @@ height: 3vh;
 #newsletter-form,#stats,#contact-section {
     max-width: 600px;
     margin: auto;
-    background-color: #6e2121;
+    background-color: #923b3b;
     border-radius: 8px;
 }
 
 .blog-post{
-    background-color: #6e2121;
+    background-color: #923b3b;
     border-radius: 8px; 
 }
 
@@ -234,7 +234,7 @@ height: 3vh;
 
 .form-group input[type="submit"] {
     background-color: #ae2525;
-    color: #6e2121;
+    color: #923b3b;
     border: none;
     cursor: pointer;
 }
