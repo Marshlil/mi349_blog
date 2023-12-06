@@ -233,7 +233,7 @@ height: 3vh;
 }
 
 .form-group input[type="submit"] {
-    background-color: #ae2525;
+    background-color: #393939;
     color: #923b3b;
     border: none;
     cursor: pointer;
@@ -274,7 +274,7 @@ height: 3vh;
     padding: 10px 20px;
     border-radius: 4px;
     cursor: pointer;
-    background-color: #ae2525;
+    background-color: #352121;
     color: white;
     border: none;
     margin-top: 10px;
